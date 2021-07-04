@@ -52,6 +52,7 @@ background-position: right;
     margin-right: 5%;
     box-shadow: 10px 10px 40px gray;
     padding-left: 20px;
+    border-radius: 5px;
 }
 h2{
     font-size: 40px;
@@ -63,4 +64,20 @@ h2{
     background-repeat: no-repeat;
     background-position: left;
     
+}
+#web-dev-experience{
+
+    border-left: 7px solid;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+
+}
+#full-stuck-dev{
+    border-left: 7px solid;
+    border-image: linear-gradient(salmon,tomato);
+    border-image-slice: 1;
+
+}
+footer p{
+    text-align: center;
 }
