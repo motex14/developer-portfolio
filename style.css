@@ -12,6 +12,7 @@ h1{
 section{
 
     display: flex;
+    margin-bottom: 100px;
 }
 .half-width{
 
@@ -34,4 +35,13 @@ section{
 
     background-image: url(IMAGE/top-banner.png);
     background-repeat: no-repeat;
+}
+.liza{
+    color: orange;
+}
+.dream-big{
+background-image: url(IMAGE/dream-bg.png);
+background-repeat: no-repeat;
+background-position: right;
+
 }
